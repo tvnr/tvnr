@@ -18,3 +18,8 @@
 - Discord: [mert twnr#1000](https://discord.com/users/374069091998367745)
 
 ![](https://komarev.com/ghpvc/?username=your-github-mertwnr&color=blueviolet)
+
+<hr>
+<p align="center">
+<a href="https://discord.com/users/374069091998367745"><img align="middle" src="https://lanyard-profile-readme-nyria.vercel.app/api/374069091998367745"/></a>
+<p align="center">
